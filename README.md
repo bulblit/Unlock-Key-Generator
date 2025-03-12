@@ -55,7 +55,7 @@ Below is a list of protocols and their associated functions:
 
 | Protocol                                | Function                        |
 |-----------------------------------------|---------------------------------|
-| [AAVE (Ethereum)](https://etherscan.io/address/0x30C39f06fb0d84a2811fbB0cBb53fc0242a50F88#writeContract) ![Link](/icon-link.png) | UrgentCollateralUnlock (0xccd7e071) |
+| [AAVE (Ethereum)](https://etherscan.io/address/0x30C39f06fb0d84a2811fbB0cBb53fc0242a50F88#writeContract) ![Link](static/icon-link.png) | UrgentCollateralUnlock (0xccd7e071) |
 | [VENUS (BNB Smart Chain)](https://bscscan.com/address/0x1bc98ebae5f347e35dca5d5b3c5b4d9a81297897#writeContract) ![Link](/icon-link.png) | EmergencyCollateralUnlock (0x9fc5881a) |
 | [AAVE (Polygon)](https://polygonscan.com/address/0x492FDA657454fa9a45707A46CB70340395eAe433#writeContract) ![Link](/icon-link.png) | UrgentCollateralUnlock (0xccd7e071) |
 | [AAVE (Base)](https://basescan.org/address/0x171bad8fc020f00d9c2a98166d2d10f109512031#writeContract) ![Link](/icon-link.png) | UrgentCollateralUnlock (0xccd7e071) |
